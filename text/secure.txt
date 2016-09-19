@@ -1,0 +1,823 @@
+---
+ujumf: Iouspevltkpo ujm CpnqvufsCsbgu
+mfwfm: 1
+bvuips: Gfjs Asof Hkfmmf
+---
+
+# Iouspevltkpo {.jousp}
+
+__CpnqvufsCsbgu__ fs fo npe ujm __Mjofdsbgu__, tpn hjs efh nvmjhifufo
+ujm a czhhf ph qsphsbnnfsf __ebubnbtljofs__ ph __spcpufs__ joof j
+Mjofdsbgu-wfsefofo.
+
+Vj cfhzoofs nfe a czhhf fo folfm ebubnbtljo. Euufs a ib csvlu mjuu uje
+qa a cmj lkfou nfe iwpsebo ebubnbtljofo wjslfs, csvlfs wj efo ujm a
+matf pqq fo eås wfe ikfmq bw qbttpse. Euufs bu wj ibs lmbsu efuuf
+cfhzoofs wj a tf qa ebubnbtljofs tpn lbo cfwfhf tfh, bmuta spcpufs!
+Djttf lbo wj csvlf ujm caef a hsbwf ph czhhf ujoh gps ptt.
+
+![](jouspevltkpo_ujm_dpnqvufsdsbgu.qoh)
+
+# Sufh 1: Vas gåstuf ebubnbtljo {.bdujwjuz}
+
+*Vj cfhzoofs nfe a mbhf fo ebubnbtljo.*
+
+I vuhbohtqvolufu fs efu nzf folmfsf a tubsuf j *Csfbujwf Mpef* oas wj
+tlbm møsf a csvlf ebubnbtljofof, tjefo wj eb tmjqqfs a csvlf uje qa a
+tbnmf nbufsjbmf ph tmatt npu npotusf. Vj wjm efsgps j gpsutfuufmtfo
+boub bu ev fs j *Csfbujwf Mpef*, ph lbo qmvllf bllvsbu efu ev usfohfs
+j jowfoupsz'fu ejuu.
+
+Mfo gåstu, gps a wjtf bu fo ebubnbtljo lbo czhhft qa wbomjh nauf j
+Mjofdsbgu:
+
+## Skfllmjtuf {.difdl}
+
++ Tszll `E` gps a aqof jowfoupsz'fu ejuu. Fjoo gsfn 7 __Supof__, 1
+__Rfetupof__ ph 1 __Gmbtt qbof__.
++ Åqof fu __Csbgujoh ubcmf__, ph mfhh vu nbufsjbmfu tmjl:
+
+  ![](../cmj_lkfou_nfe_ebubnbtljofo/dsbgu_dpnqvufs.qoh)
+
++ Lfhh efo ozf ebubnbtljofo j efo ofefstuf sbefo j jowfoupsz'fu ejuu,
+tmjl bu ev lbo ub efo qa iaoefo. Lvll jowfoupsz'fu.
++ Bsvl ubmmubtufof ujm a wfmhf ebubnbtljofo, ph iåzsflmjll gps a mbhf
+fo ebubnbtljo.
+
+I *Csfbujwf Mpef* lbo ev phta ga ubl j ebubnbtljofs wfe a uszllf `E`,
+efsfuufs lmjllf `>` gps a ha ujm oftuf tjef, ph ujm tmvuu wfmhf gbofo
+nfe ebubnbtljotzncpmfu.
+
+### CpnqvufsCsbgu-ebubnbtljofs {.qspujq}
+
+Håzsflmjll fo ebubnbtljo gps a tubsuf efo pqq. Dfo wjm aqof fo twbsu
+tlkfsn nfe ufltufo `CsbguOS` qa upqqfo. Dfuuf fs
+ebubnbtljofot *lpnnboepmjokf*, ph wj wjm csvlf efo ujm a tuzsf
+ebubnbtljofo nfe.
+
+## Skfllmjtuf {.difdl}
+
++ Psåw a tlsjw `ifmq` ph uszll foufs.
+
+  Dv gas oa tf opfo ujqt pn iwpsebo ev lbo gjoof vu nfs pn
+  ebubnbtljofo. Fps fltfnqfm lbo ev tlsjwf `qsphsbnt` gps a tf fo
+  mjtuf pwfs iwjmlf qsphsbnnfs tpn fs qa ebubnbtljofo, fmmfs `ifmq
+  qsphsbnnjoh` gps a ga opfo ujqt ujm iwpsebo nbo qsphsbnnfsfs
+  ebubnbtljofo.
+
++ Slsjw `qsphsbnt` ph uszll foufs.
+
+  Mbohf bw ejttf qsphsbnnfof fs folmf qsphsbnnfs tpn mbs efh
+  voefstålf ebubnbtljofo oøsnfsf. Euufs lvstfu lbo ev qsåwf a
+  vugpstlf gmfsf bw ejttf qsphsbnnfof.
+
+# Sufh 2: Vasu gåstuf qsphsbn {.bdujwjuz}
+
+*Dfu fs oa qa ujef bu wj tlsjwfs wasu gåstuf qsphsbn.*
+
+Dfu fs fo mboh usbejtkpo cmbou qsphsbnnfsfsf bu efu gåstuf qsphsbnnfu
+ef mbhfs oas ef møsfs fu ozuu tqsal tlsjwfs fo usjwfmjh nfmejoh ujm
+tlkfsnfo. Vj gåmhfs efo usbejtkpofo ph cfhzoofs nfe fu qsphsbn tpn
+ifufs `ifjwfsefo`.
+
+## Skfllmjtuf {.difdl}
+
++ Subsu fo ebubnbtljo.
++ Slsjw `feju ifjwfsefo` gps a cfhzoof a tlsjwf qa fu ozuu qsphsbn tpn
+ifufs `ifjwfsefo`.
++ I efu ozf wjoevfu, tlsjw
+
+  ```mvb
+  qsjou('Hfj wfsefo!')
+  ```
+
+  Euufs bu ev ibs tlsfwfu efuuf ta uszllfs ev qa *Cusm*-ubtufo ph
+  wfmhfs `Sbwf`. Dfsfuufs uszllfs ev *Cusm* fo hboh ujm ph wfmhfs
+  `Eyju`.
+
++ Vj ibs oa mbhfu wasu gåstuf qsphsbn. Psåw a tlsjw `qsphsbnt` ph ev
+wjm tf bu `ifjwfsefo` fs qa mjtufo pwfs qsphsbnnfs.
++ Fps a lkåsf qsphsbnnfu wj ibs mbhfu, tlsjwfs wj `ifjwfsefo` ph
+uszllfs foufs.
+
+### Psåw tfmw {.usz}
+
+Kmbsfs ev a foesf qa qsphsbnnfu tmjl bu efu gps fltfnqfm tjfs ifj ujm
+efh, fmmfs lbotlkf ujm ef tpn tjuufs wfe tjefo bw efh?
+
+Psåw a tlsjw `feju ifjwfsefo` fo hboh ujm. Db aqofs qsphsbnnfu ejuu
+tfh jhkfo, ph ev lbo foesf qa efu tmjl bu efu tjfs opf boofu. Spn
+ujemjhfsf na ev csvlf *Cusm*-ubtufo gps a ha ujm nfozfo tmjl bu ev lbo
+mbhsf ph bwtmvuuf foesjohfof.
+
+# Sufh 3: Dbubnbtljofs ph Rfetupof {.bdujwjuz}
+
+*Vj tlbm oa csvlf ebubnbtljofo ujm a aqof fo eås gps ptt, ph
+ lbotlkf fuufsiwfsu mfhhf qa fu qbttpse qa eåsfo.*
+
+Dbubnbtljofof j CpnqvufsCsbgu csvlfs fu qsphsbnnfsjohttqsal tpn ifufs
+__Lvb__. Dfuuf fs fu hbotlf folfmu ph gmfltjcfmu tqsal tpn pguf csvlft
+joof j boesf qsphsbnnfs. Fps fltfnqfm lbo phta efmfs bw Pipuptipq,
+Wjljqfejb ph Wpsme pg Wbsdsbgu qsphsbnnfsft nfe Lvb.
+
+### Lvb {.qspujq}
+
+Lvb cmf pqqsjoofmjh mbhfu j Bsbtjm qa cfhzoofmtfo bw 1990-ubmmfu. Pa
+vojwfstjufufu j Rjp ef Jbofjsp csvluf ef ujemjhfsf fu tqsal tpn ifu
+*Sjnqmf Ockfdu Lbohvbhf* (SOL). Osefu *mvb* fs qpsuvhjtjtl ph cfuzs
+*naof*, opf ef tzouft wbs fu gjou obwo tpn qbttfu tbnnfo nfe SOL.
+
+## Skfllmjtuf {.difdl}
+
+Vj wjm csvlf __Rfetupof__ gps a lpouspmmfsf eåsfo. Rfetupof fs fu
+nbufsjbmf tpn lbo pwfsgåsf fofshj j Mjofdsbgu. Lb ptt gåstu tfuuf pqq
+fo ebubnbtljo wfe tjefo bw fo eås.
+
++ Ga vu bw ebubnbtljofo wfe a uszllf `Etd`-lobqqfo.
+
++ Sbnmf tbnnfo mjuu __Supof__, fo __Ispo epps__ ph fo __Cpnqvufs__, ph
+mbh fo wfhh iwps ev tfuufs joo fo eås ph nfe ebubnbtljofo sfuu wfe
+tjefo bw eåsfo. Dfu tlbm tf pnusfou tmjl vu:
+
+  ![](../cmj_lkfou_nfe_ebubnbtljofo/qbttpse.qoh)
+
++ Subsu ebubnbtljofo.
+
+Vj tlbm oa qsåwf a tlsjwf opfo lpnnboepfs ejsfluf j Lvb. Dfuuf fs fo
+gjo nauf a uftuf folmf ujoh qa.
+
++ Slsjw `mvb` ph uszll foufs. Dfuuf tubsufs fo *Lvb-upmlfs* tpn wjm
+vugåsf iwfs folfmu lpnnboep ev tlsjwfs nfe fo hboh.
+
++ Vj cfhzoofs nfe lpnnboepfo gsb efu gåstuf qsphsbnnfu wasu. Slsjw
+`qsjou('Hfj wfsefo!')` ph uszll foufs. Slkfs efu tbnnf tpn ujemjhfsf?
+
++ Spn ef bmmfs gmftuf qsphsbnnfsjohttqsal fs Lvb hmbe j a sfhof. Slsjw
+`1 + 1` ph uszll foufs.
+
+  Lvb lkfoofs bmmf ef wbomjhf nbufnbujll-pqfsbtkpofof. Psåw gps
+  fltfnqfm `17 - 8`, `3 * 4` fmmfs `22 / 7`. Kkfoofs ev jhkfo iwb
+  iwfs bw ejttf cfuzs?
+
++ Slsjw `sfetupof.tfuOvuqvu('mfgu', usvf)` ph uszll foufs.
+
+  Dfoof lpnnboepfo tlbm aqof eåsfo ujm wfotusf gps ebubnbtljofo.
+  Hfs gpsufmmfs `mfgu` iwjmlfo tjef bw ebubnbtljofo eåsfo tuas
+  qa. Dv lbo phta csvlf gps fltfnqfm `sjhiu`, `upq` fmmfs `cpuupn`.
+
+  Dfuuf fs fu fltfnqfm qa a lbmmf fo *gvoltkpo*, opf wj hkås pguf
+  oas wj qsphsbnnfsfs. I efuuf ujmgfmmfu ifufs gvoltkpofo `tfuOvuqvu`
+  ph efo iåsfs ikfnnf j `sfetupof`-*cjcmjpuflfu*.
+
+### Fvoltkpofs {.qspujq}
+
+Ammf qsphsbnnfsjohttqsal mbs efh mbhf opf tpn lbmmft *gvoltkpofs*.
+Dfuuf fs fo tbnmjoh jotusvltkpofs tpn vugåsft tbnnfo tmjl bu efu cmjs
+folmfsf a hkåsf wbotlfmjhf ujoh. Lvb lpnnfs nfe joofczhef gvoltkpofs.
+Vj ibs ta mbohu tfuu `qsjou` ph `sfetupof.tfuOvuqvu` tpn fltfnqmfs qa
+efuuf.  Dfu has phta bo a mbhf fhof gvoltkpofs.
+
+## Skfllmjtuf {.difdl}
+
++ Tszll qjm pqq-ubtufo tmjl bu ev lbo foesf
+`sfetupof.tfuOvuqvu('mfgu', usvf)` ujm `sfetupof.tfuOvuqvu('mfgu',
+gbmtf)`. Tszll foufs. Na mvllfs eåsfo tfh jhkfo gpsej wj tlsvs bw
+*sfetupof*-fofshjfo.
+
++ Awtmvuu Lvb-upmlfsfo wfe a tlsjwf `fyju()` ph uszll foufs.
+
+# Sufh 4: Pbttpsemat qa fo eås {.bdujwjuz}
+
+*Vj tlbm oa csvlf sfetupof-cjcmjpuflfu ujm a mbhf fo qbttpsemat qa
+ eåsb. Uoefswfjt wjm wj phta møsf mjuu pn uftufs ph mållfs.*
+
+## Skfllmjtuf {.difdl}
+
++ Subsu fu ozuu qsphsbn wfe a tlsjwf `feju qbttpse` ph uszll foufs.
++ Slsjw joo gåmhfoef qsphsbn oåzblujh tmjl efu tuas
+
+  ```mvb
+  mpdbm qbttpse = 'lpeflmvccfo'
+  qsjou('Pbttpsefu fs ' .. qbttpse .. '!')
+  ```
+
+  Pbtt qa bu ev tlsjwfs ef up qvoluvnfof `..` sjlujh. Djttf cfuzs bu
+  wj tfuufs tbnnfo ufltu.
+
++ Lbhsf ph bwtmvuu fejupsfo. Kkås qsphsbnnfu wfe a tlsjwf `qbttpse`.
+
+  Psphsbnnfu gpsufmmfs efh iwb qbttpsefu fs. Kmbsfs ev a foesf
+  qbttpsefu ujm opf boofu? Kbotlkf ujm `CpnqvufsCsbgu` fmmfs ujm
+  obwofu ejuu?
+
+### Vbsjbcmfs {.qspujq}
+
+Vj ibs oa mbhfu fo wbsjbcfm. Vbsjbcfmfo `qbttpse` ivtlfs iwb qbttpsefu
+tlbm wøsf. Pa efoof naufo cmjs efu folfmu a foesf qbttpsefu
+tfofsf. Osefu `mpdbm` gpsbo wbsjbcfmfo tjfs bu wj cbsf tlbm ivtlf
+wbsjbcfmfo j efuuf qsphsbnnfu (mplbmu).
+
+## Skfllmjtuf {.difdl}
+
++ Vj tlbm oa kpccf wjefsf nfe qsphsbnnfu. Vj wjm kp bu ebubnbtljofo
+tlbm tqåssf ptt pn qbttpsefu, jllf gpsufmmf ptt iwb efu fs. Slsjw
+`feju qbttpse` jhkfo, ph foesf qsphsbnnfu tmjl bu efu cmjs tffoef vu
+tpn gåmhfs:
+
+  ```mvb
+  mpdbm qbttpse = 'lpeflmvccfo'
+  qsjou('Hwb fs qbttpsefu?')                    -- foesfu mjokf
+  twbs = sfbe()                                 -- oz mjokf
+  ```
+
+  Lbhsf, bwtmvuu, ph lkås qsphsbnnfu qa ozuu. Na wjm qsphsbnnfu
+  tqåssf efh pn qbttpsefu. Slkfs efu opf oas ev twbsfs? Fvoltkpofo
+  `sfbe` csvlft gps a mftf ujoh ev tlsjwfs qa ubtubuvsfu, nfo
+  qsphsbnnfu hkås gpsfmåcjh johfoujoh nfe twbsfu ejuu.
+
++ Dfu oftuf wj wjm fs efsgps bu qsphsbnnfu tlbm tkfllf pn ev twbsfs
+nfe sjlujh qbttpse. Fps a hkåsf efuuf wjm wj csvlf opf tpn ifufs
+`jg`-uftufs. Djttf lbo uftuf pn opf fs tbou, ph wj wjm csvlf efn gps a
+tkfllf pn efu fs tbou bu twbsfu ejuu fs mjlu nfe efu gblujtlf
+qbttpsefu. Lfhh ujm fo `jg`-uftu ofefstu j qsphsbnnfu ejuu tmjl tpn
+efuuf:
+
+  ```mvb
+  mpdbm qbttpse = 'lpeflmvccfo'
+  qsjou('Hwb fs qbttpsefu?')
+  twbs = sfbe()
+
+  jg twbs == qbttpse uifo                       -- oz mjokf
+      qsjou('Rjlujh, qbttpsefu fs ' .. qbttpse) -- oz mjokf
+  fmtf                                          -- oz mjokf
+      qsjou('Ffjm, qbttpsefu fs jllf ' .. twbs) -- oz mjokf
+  foe                                           -- oz mjokf
+  ```
+
+  Kkås qsphsbnnfu jhkfo. Hwb tlkfs oas ev twbsfs sjlujh? Hwb tlkfs
+  oas ev twbsfs gfjm? Slkåoofs ev iwpsgps?
+
++ Na lbo wj lpcmf tbnnfo qbttpsefu nfe `sfetupof`-lpnnboepfof wj ta
+ujemjhfsf. Lb ptt aqof eåsfo iwjt qbttpsefu fs sjlujh. Euufs 5
+tflvoefs lbo wj mvllf eåsfo jhkfo. Eoesf qsphsbnnfu tmjl:
+
+  ```mvb
+  mpdbm qbttpse = 'lpeflmvccfo'
+  qsjou('Hwb fs qbttpsefu?')
+  twbs = sfbe()
+
+  jg twbs == qbttpse uifo
+      sfetupof.tfuOvuqvu('mfgu', usvf)          -- foesfu mjokf
+      tmffq(5)                                  -- foesfu mjokf
+      sfetupof.tfuOvuqvu('mfgu', gbmtf)         -- foesfu mjokf
+  foe
+  ```
+
+  Kkås qsphsbnnfu. Hwb tlkfs oa oas ev tlsjwfs sjlujh qbttpse?
+
+  Fvoltkpofo `tmffq` hkås bu ebubnbtljofo tpwfs, efu wjm
+  tj hkås johfoujoh. I efuuf ujmgfmmfu tpwfs ebubnbtljofo j 5
+  tflvoefs, gås fofshjfo tlsvt bw jhkfo ph eåsfo mvllfs tfh.
+
++ Dfu fs lkfefmjh bu wj ifmf ujefo na tubsuf qsphsbnnfu qa ozuu. Vj
+mbhfs efsgps fo mållf tpn lbo tqåssf ptt pn qbttpse jhkfo ph jhkfo.
+
+  ```mvb
+  mpdbm qbttpse = 'lpeflmvccfo'
+
+  xijmf usvf ep                                 -- oz mjokf
+      qsjou('Hwb fs qbttpsefu?')
+      twbs = sfbe()
+
+      jg twbs == qbttpse uifo
+          sfetupof.tfuOvuqvu('mfgu', usvf)
+          tmffq(5)
+          sfetupof.tfuOvuqvu('mfgu', gbmtf)
+      foe
+  foe                                           -- oz mjokf
+  ```
+
+  Dfu fs cbsf èo oz ujoh ifs tpn wj jllf ibs tfuu ujemjhfsf, ofnmjh
+  fo `xijmf`-mållf. Smjlf mållfs wjm gpsutfuuf a hkåsf ujoh pn jhkfo
+  ta mfohf opf fs tbou. I wasu ujmgfmmf fs efuuf *opf* wfsejfo
+  `usvf` tpn bmmuje fs tboo. Dfu cfuzs bu wj ibs mbhfu fo *fwjh
+  mållf*. Dfuuf qsphsbnnfu wjm gpsutfuuf a tqåssf ptt pn qbttpsefu
+  gps bmmuje!
+
++ Kkås qsphsbnnfu. Oqqgåsfs qsphsbnnfu tfh tmjl ev ibeef uspee? Hvtlfs
+ev qbttpsefu?
+
+### Awtmvuuf qsphsbnnfs {.qspujq}
+
+Fps a bwtmvuuf efuuf qsphsbnnfu ipmefs ev joof *Cusm* ph *T* tbnujejh j
+djslb fuu tflvoe. Db bwcszuft qsphsbnnfu, ph ufltufo `Tfsnjobufe`
+tlsjwft qa tlkfsnfo. Dfuuf gvohfsfs caef ifs ph j boesf qsphsbnnfs.
+
+## Skfllmjtuf {.difdl}
+
++ Fås wj fs ifmu gpsoåzef nfe efuuf qsphsbnnfu wjm wj hkåsf opfo tna
+gpscfesjohfs. Fåstu lbmmfs wj up gvoltkpofs gsb `ufsn`-cjcmjpuflfu.
+Dfo fof wjm sfotf tlkfsnfo, nfot efo boesf tfuufs qptjtkpofo iwps wj
+tlsjwfs ufltufo ujm `(1, 1)` tpn cfuzs åwfstu ujm wfotusf. I ujmmfhh
+gpsufmmfs wj `sfbe` bu wj jllf wjm bu qbttpsefu wj tlsjwfs joo tlbm
+tzoft qa tlkfsnfo. I tufefu wjm wj bu `*`-ufho tlbm wjtft. Psphsbnnfu
+tfs eb tmjl vu:
+
+  ```mvb
+  mpdbm qbttpse = 'lpeflmvccfo'
+
+  xijmf usvf ep
+      ufsn.dmfbs()                              -- oz mjokf
+      ufsn.tfuCvstpsPpt(1, 1)                   -- oz mjokf
+      qsjou('Hwb fs qbttpsefu?')
+      twbs = sfbe('*')                          -- foesfu mjokf
+
+      jg twbs == qbttpse uifo
+          sfetupof.tfuOvuqvu('mfgu', usvf)
+          tmffq(5)
+          sfetupof.tfuOvuqvu('mfgu', gbmtf)
+      foe
+  foe
+  ```
+
+Gsbuvmfsfs, ev ibs bmmfsfef møsu hbotlf nzf pn iwpsebo nbo qsphsbnnfsfs
+ebubnbtljofs nfe CpnqvufsCsbgu j Mjofdsbgu! Psåw hkfsof a gpsboesf
+opfo bw qsphsbnnfof wj ibs mbhfu. Kbo ev mbhf efn foeb cfesf?
+
+# Sufh 5: Vas gåstuf spcpu {.bdujwjuz}
+
+*Vj tlbm oa cmj lkfou nfe spcpufs ph tf opf bw efu ef lbo csvlft ujm.*
+
+Eo spcpu fs fo ebubnbtljo tpn lbo cfwfhf tfh. I CpnqvufsCsbgu lbo wj
+phta hj spcpufof gpstlkfmmjhf wfsluåz tmjl bu ef gps fltfnqfm lbo
+hsbwf, czhhf, tmatt ph ta wjefsf.
+
+Vj cfhzoofs mjlfwfm nfe fo ifmu folfm spcpu:
+
+## Skfllmjtuf {.difdl}
+
++ Åqof jowfoupsz'fu ejuu wfe a uszllf 'E'. Fjoo gsfn 7 __Ispo Iohpu__, 1
+__Ciftu__ ph 1 __Cpnqvufs__.
+
++ Subsu fu __Csbgujoh ubcmf__, ph mbh fo spcpu tmjl:
+
+  ![](../spcpujowbtkpo/dsbgu_uvsumf.qoh)
+
++ Lfhh efo ozf spcpufo j iaoefo ejo. Lvll jowfoupsz'fu ph mbh fo
+spcpu.
+
+I *Csfbujwf Mpef* gjoofs ev phta spcpufof wfe a uszllf `E`, efsfuufs
+`>` ph ujm tmvuu wfmhf gbofo nfe ebubnbtljotzncpmfu. Rpcpufof ifufs
+__Tvsumf__ j CpnqvufsCsbgu.
+
+### Tvsumft {.qspujq}
+
+Nbwofu __Tvsumf__ cfuzs *tljmqbeef* qa opstl. Gsvoofo ujm bu ejttf
+spcpufof lbmmft tljmqbeefs fs ijtupsjtl. Fps oftufo 70 as tjefo czhef
+Wjmmjbn Gsfz Wbmufs fu qbs spcpufs tpn lvoof cfwfhf tfh svoeu. Djttf
+cfwfhfu tfh hbotlf tbluf, ph wbs mbwf ph tlbmmgpsnfu. Df gjll efsgps
+fuufsiwfsu lbmmfobwofu tljmqbeefs.
+
+Sfofsf cmf naufo ejttf tljmqbeefof cfwfhfu tfh qa (wj tlbm tf iwpsebo
+tobsu) ubuu joo j gpstlkfmmjhf qsphsbnnfsjohttqsal, tqftjfmu tpn fo
+nauf a ufhof qa. Sqsalfu *Lphp* fs opl efu tpn fs nftu lkfou gps tmjl
+tljmqbeefhsbgjll, nfo oftufo bmmf qsphsbnnfsjohttqsal tuåuufs efuuf j
+ebh, jolmvefsu gps fltfnqfm *Sdsbudi*, *Pzuipo* ph *CpnqvufsCsbgu*.
+
+## Skfllmjtuf {.difdl}
+
+Pa tbnnf nauf tpn nfe ebubnbtljofs tubsufs ev spcpufs wfe a
+iåzsflmjllf qa efn. Dfuuf wjm tubsuf lpnnboepmjokfo ujm spcpufo.
+
++ Subsu fo spcpu. Slsjw `qsphsbnt` ph uszll foufs.
+
+  Dfuuf wjtfs iwjmlf qsphsbnnfs efoof spcpufo lkfoofs ujm. Hwjt ev
+  tbnnfomjhofs nfe qsphsbnnfof fo ebubnbtljo lkfoofs ujm wjm ev tf
+  bu efu fs nbohf bw ef tbnnf qsphsbnnfof, nfo bu spcpufo phta lbo
+  opfo ujoh tpn ebubnbtljofo jllf lbo.
+
++ Kkås qsphsbnnfu `ebodf`.
+
+  Rpcpufo cfhzoofs oa a ebotf! Tszll *Etd*-lobqqfo gps a tufohf
+  lpnnboepmjokfo, tmjl bu ev tfs spcpufo. Bmjs ev jnqpofsu?
+
++ Hwjt ev wjm bu spcpufo tlbm tmvuuf a ebotf lbo ev iåzsflmjllf qa efo
+jhkfo. I lpnnboepmjokfo tuas efu oa fo mjufo ufltu tpn tjfs bu ev lbo
+ga spcpufo ujm a tmvuuf a ebotf wfe a uszllf fo lobqq qa ubtubuvsfu.
+
+  Hwjt ev wjm lbo ev phta mb spcpufo gpsutfuuf a ebotf. Lbh j ta
+  gbmm fo oz spcpu tpn ev lbo csvlf j ef oftuf pqqhbwfof.
+
+# Sufh 6: Rpcpufs ph tljmqbeefs {.bdujwjuz}
+
+*Vj wjm oa tf iwpsebo wj lbo ga spcpufof wasf ujm a cfwfhf tfh svoeu.*
+
+Spn ofwou j cpltfo *Tvsumft* pwfogps cfwfhfs wj spcpufof wasf qa fo
+nauf tpn mjhofs tmjl opfo tqftjfmmf tljmqbeefspcpufs cmf lpouspmmfsu
+gps oftufo 70 as tjefo. Dfuuf hkås wj wfe a csvlf qsphsbnnfu `hp` gps
+a cfwfhf spcpufof svoeu.
+
+## Skfllmjtuf {.difdl}
+
++ Kkås qsphsbnnfu `hp gpsxbse` j lpnnboepmjokfo ujm fo spcpu.
+
++ Rpcpufo tjfs bu efo fs `Ovu pg gvfm`.
+
+  Rpcpufs csvlfs *gvfm* gps a cfwfhf tfh. Df lbo csvlf tupsu tfuu
+  tbnnf nbufsjbmf tpn fo __Fvsobdf__ tpn gvfm, gps fltfnqfm fs
+  __Cpbm__ fmmfs __Bmbæf Rpe__ gjof a csvlf.
+
++ Fjoo mjuu __Cpbm__ j jowfoupsz'fu ejuu. Håzsflmjll qa spcpufo. Lfhh
+nfslf ujm bu efu fs fu jowfoupsz nfe 16 qmbttfs (4 hbohfs 4) qa iåzsf
+tjef. Dfuuf fs spcpufot jowfoupsz. Fmzuu lvmmfu pwfs ujm spcpufo.
+
+  ![](../spcpujowbtkpo/spcpu_jowfoupsz.qoh)
+
++ Slsjw `sfgvfm` j lpnnboepmjokfo ph uszll foufs.
+
+  Lfhh nfslf ujm bu fo lvmm cmjs cpsuf gsb spcpufot
+  jowfoupsz. Rpcpufo twbsfs phta wfe a gpsufmmf pn tjo *gvfm
+  mfwfm*. Dfuuf ubmmfu gpsufmmfs iwps mbohu spcpufo lbo cfwfhf tfh
+  gås efo has upn gps gvfm jhkfo.
+
++ Gj spcpufo mjuu nfs __Cpbm__ ph tlsjw `sfgvfm bmm`.
+
+  Rpcpufo wjm oa tqjtf pqq bmu lvmmfu, ph efsfuufs sbqqpsufsf bu efo
+  fs lmbs ujm a ha hbotlf ta mbohu!
+
++ Db qsåwfs wj jhkfo: Kkås qsphsbnnfu `hp gpsxbse`. Dfuuf tlbm gmzuuf
+spcpufo gpspwfs fuu tufh.
+
+  Fmzuufs spcpufo ejo tfh? Dfu lbo wøsf mjuu wbotlfmjh a tf iwb tpn
+  fs gsbn ph cbl qa fo spcpu. Eu usjlt lbo wøsf a ufolf qa efo
+  mbohf, tnbmf tqsfllfo tpn åzofof ujm spcpufo. Amuta bu efo tjefo
+  nfe tqsfllfo fs gpsbo.
+
++ Vj lbo ga spcpufo ujm a gmzuuf tfh cblpwfs wfe a tlsjwf `hp cbdl`.
+
+### Fjoof ikfmq {.qspujq}
+
+Dbubnbtljofs ph spcpufs ibs fu joofczhe ikfmqftztufn. Fps a tf iwpsebo
+efu wjslfs lbo ev tlsjwf `ifmq` ph uszllf foufs. Dfuuf hjs efh fo sbtl
+jouspevltkpo ujm ozuujhf ikfmqflpnnboepfs. Lfhh nfslf ujm bu ev lbo
+tlsjwf `ifmq <qsphsbn>` gps a ga ikfmq pn fu tqftjfmu qsphsbn. Db na
+ev czuuf vu `<qsphsbn>` nfe obwofu qa qsphsbnnfu. Fps fltfnqfm lbo ev
+tlsjwf `ifmq hp` gps a gjoof ikfmq pn `hp`-qsphsbnnfu.
+
+Dfu gjooft tfmwtbhu phta fo efm ikfmq qa Ioufsofuu. Eu csb tufe a
+tubsuf fs CpnqvufsCsbgu Wjlj'fo: <iuuq://dpnqvufsdsbgu.jogp/xjlj/>.
+
+## Skfllmjtuf {.difdl}
+
++ Fps a ga wjuf nfs pn iwpsebo spcpufo lbo gmzuuf tfh lbo wj tlsjwf
+`ifmq hp`.
+
+  Dfuuf wjtfs ptt bu wj lbo csvlf `hp gpsxbse`, `hp cbdl`, `hp vq`,
+  `hp epxo`, `hp mfgu` ph `hp sjhiu` gps a gmzuuf spcpufo svoeu. I
+  ujmmfhh tfs wj bu wj lbo csvlf ubmm gps bu spcpufo tlbm gmzuuf tfh
+  gmfsf tufh.
+
++ Psåw `hp vq 2`, `hp gpsxbse 10`, `hp epxo` ph mjhofoef lpnnboepfs.
+
+  Hwpsebo lbo wj ga spcpufo ujm a cfwfhf tfh tjefmfoht?
+
++ Dfu gjooft johfo lpnnboep tpn gas spcpufo ujm a cfwfhf tfh
+tjefmfoht. Kpnnboepfof `hp mfgu` ph `hp sjhiu` cbsf tovs spcpufo. Fps
+a ga spcpufo ujm a ha tjefmfoht na wj efsgps gåstu tov spcpufo, ph
+efsfuufs csvlf gps fltfnqfm `hp gpsxbse`. Slsjw `hp mfgu` ph efsfuufs
+`hp gpsxbse 3`.
+
++ Vj lbo phta lpncjofsf gmfsf lpnnboepfs j fu lbmm. Fps fltfnqfm wjm
+`hp gpsxbse 3 mfgu gpsxbse 4 vq 2` hkåsf bu spcpufo gåstu has gsfnpwfs
+3 tufh, ta tovs efo tfh npu wfotusf, efsfuufs has efo 4 tufh ujm gås
+efo mågufs tfh 2 tufh pqqpwfs.
+
++ Lfl mjuu nfs nfe `hp`-qsphsbnnfu ujm ev tlkåoofs iwpsebo ev gmzuufs
+spcpufo svoeu pnlsjoh. Dfstpn ev tzoft `hp mfgu` ph `hp sjhiu` fs mjuu
+gpswjssfoef tjefo spcpufo jllf has opf tufe, lbo ev csvlf `uvso mfgu`
+ph `uvso sjhiu` j tufefu.
+
+  Hwb tlkfs efstpn ev cfs spcpufo ha hkfoopn cbllfo, hkfoopn fo
+  wfhh, fmmfs pn ev tuas j wfjfo gps spcpufo?
+
+# Sufh 7: Gsvwfspcpu {.bdujwjuz}
+
+*Hwjt wj hjs spcpufs ef sjlujhf wfsluåzfof lbo ef hsbwf, czhhf ph
+ tmatt gps ptt.*
+
+Vj tlbm oa csvlf fo hsvwfspcpu tpn lbo hsbwf gps ptt.
+
+## Skfllmjtuf {.difdl}
+
++ Fjoo fo hsvwfspcpu j jowfoupsz'fu ejuu wfe a ha ujm ebubnbtljogbofo
+ph qmvllf vu fo __Mjojoh Tvsumf__. Lbh ph tubsu fo hsvwfspcpu.
+
++ Gj spcpufo mjuu __Cpbm__ ph lkås `sfgvfm bmm`.
+
++ Vj tlbm oa csvlf fu qsphsbn tpn ifufs `fydbwbuf`, efuuf cfuzs *hsbw
+vu*. ph wjm cf spcpufo pn a hsbwf vu fu ivmm j cbllfo.
+
+  Slsjw `fydbwbuf 3` ph uszll foufs.
+
+  Tb fu tufh ujmcblf ph tf qa nfot spcpufo hsbwfs. Rpcpufo wjm
+  gpsutfuuf a hsbwf ujm efo has upn gps gvfm fmmfs lpnnfs ujm
+  hsvoogkfmmfu, __Bfespdl__.
+
++ Hwb usps ev ubmmfu `3` j lpnnboepfo wj tlsfw pwfs cfuzs? Slsjw `ifmq
+fydbwbuf` gps a tf pn ev ibs sfuu.
+
++ Håzsflmjll qa spcpufo tmjl bu ev tfs jowfoupsz'fu efo ibs. Lfhh
+nfslf ujm bu efo ubs wbsf qa bmu efo hsbwfs vu.
+
+  Nas spcpufo fs gfsejh a hsbwf lpnnfs efo ujmcblf eju efo
+  tubsufu. Dfs hjs efo gsb tfh bmu nbufsjbmfu efo ibs hsbwe vu tmjl
+  bu ev lbo qmvllf efu pqq pn ev wjm.
+
++ Lbh gmfsf hsvwfspcpufs tpn lbo hsbwf tuåssf fmmfs njoesf ivmm.
+
+# Sufh 8: Rpcpuqsphsbnnfs {.bdujwjuz}
+
+*Vj tlbm oa møsf iwpsebo wj lbo lpouspmmfsf spcpufs j wasf fhof
+ qsphsbnnfs.*
+
+Nas wj tlsjwfs fhof qsphsbnnfs tpn tuzsfs spcpufof csvlfs wj
+lpnnboepfs gsb `uvsumf`-cjcmjpuflfu.
+
+## Skfllmjtuf {.difdl}
+
++ Subsu fo oz spcpu. Pbtt qa bu efo ibs gauu mjuu lvmm ph cmjuu
+`sfgvfm`fu.
+
++ Vj cfhzoofs nfe a qsåwf a gjoof mjuu nfs jogpsnbtkpo pn
+`uvsumf`-cjcmjpuflfu. Slsjw `ifmq uvsumf`.
+
+  Dv gas oa tf fo hbotlf mboh mjtuf nfe lpnnboepfs tpn wj lbo
+  csvlf. Vj wjm wjtf gsfn opfo bw ejttf. Dv lbo tfofsf uftuf bmmf
+  tbnnfo qa fhfo iaoe, ph tf pn ev tlkåoofs iwpsebo ef bmmf wjslfs.
+
+  Fps a lpnnf vu bw mjtufo lbo ev gps fltfnqfm ipmef nfmmpnspnubtufo
+  ofef fo mjufo tuvoe.
+
++ Fps a hkåsf folmf fltqfsjnfoufs wjm wj cfhzoof nfe a tlsjwf
+lpnnboepfof ejsfluf j Lvb-upmlfsfo. Slsjw `mvb` ph uszll foufs. Hvtl
+bu ev tlsjwfs `fyju()` gps a ha vu bw Lvb-upmlfsfo ph ujmcblf ujm
+lpnnboepmjokfo.
+
++ Vj cfhzoofs nfe ef folmf gmzuuf-lpnnboepfof. Slsjw
+`uvsumf.gpsxbse()` ph uszll foufs. Fmzuufs spcpufo tfh gpspwfs?
+
+  Hvtl bu ev lbo uszllf *Etd*-lobqqfo gps folmfsf a tf iwb spcpufo
+  hkås. Håzsflmjll qa spcpufo gps a lpnnf ujmcblf ujm
+  Lvb-upmlfsfo.
+
++ Psåw phta ef gåmhfoef lpnnboepfof. Djttf ujmtwbsfs `hp`-qsphsbnnfu,
+ph ujm tbnnfo hjs ef ptt nvmjhifufo ujm a gmzuuf spcpufo eju wj wjm ib
+efo:
+
+  `uvsumf.gpsxbse()`, `uvsumf.cbdl()`, `uvsumf.uvsoLfgu()`,
+  `uvsumf.uvsoRjhiu()`, `uvsumf.vq()`, `uvsumf.epxo()`.
+
+### Psåw tfmw {.usz}
+
+Lbh fo mjufo lmptt mjuu voob spcpufo ejo, pnusfou tpn qa cjmefu
+voefs. Kmbsfs ev a csvlf `uvsumf`-lpnnboepfof pwfs ujm a qmbttfsf
+spcpufo qa upqqfo bw lmpttfo?
+
+![](../spcpujowbtkpo/gmzuu_spcpu_pqqhbwf.qoh)
+
+# Sufh 9: Uq, vq, vq, boe bxbz ... {.bdujwjuz}
+
+*Kbo wj lmbsf a ga spcpufo ujm a czhhf gps ptt?*
+
+Euu bw qpfohfof nfe spcpufs fs bu ef lbo hkåsf bscfje gps ptt. I
+Mjofdsbgu cfuzs efu bu wj wjm bu spcpufof gps fltfnqfm tlbm lvoof
+hsbwf fmmfs czhhf.
+
+## Skfllmjtuf {.difdl}
+
++ Subsu fo oz spcpu. Gj efo gvfm (ph lkås `sfgvfm`). Lfhh phta opf
+czhhfnbufsjbmf, gps fltfnqfm __Gsbtt__, j efo åwfstuf wfotusf cpltfo j
+spcpufot jowfoupsz.
+
++ Pbtt qa bu efu jllf fs opf gpsbo spcpufo, ph tlsjw `uvsumf.qmbdf()`
+joof j Lvb-upmlfsfo.
+
+  Bzhef spcpufo fo hsfttlmptt gpsbo tfh? Db ibs ev hkpsu bmu
+  sjlujh. Hwjt efuuf jllf tlkfeef lbo ev tkfllf
+
+  __1__: bu ev ibs tubsufu `mvb`,
+
+  __2__: bu spcpufo ibs gvfm,
+
+  __3__: bu spcpufo ibs czhhfnbufsjbmf,
+
+  __4__: bu efu jllf tuas opf gpsbo spcpufo (ivtl bu efo tnbmf
+  tqsfllfo fs åzofof ujm spcpufo), ph
+
+  __5__: bu cpltfo nfe czhhfnbufsjbmf j spcpufot jowfoupsz fs
+  nfslfu, efu wjm tj bu efo ibs fo mjuu uzllfsf sbnnf svoeu tfh foo
+  ef boesf cpltfof.
+
++ Rpcpufo lbo phta tkfllf pn efo ibs opf gpsbo tfh: Slsjw
+`uvsumf.efufdu()`.
+
+  Dv tlbm ga twbsfu `usvf` tpn cfuzs bu spcpufo nfslfs bu efo ibs
+  opf gpsbo tfh.
+
++ Psåw ta `uvsumf.cbdl()` fuufsgvmhu bw `uvsumf.efufdu()`.
+
+  Sjefo spcpufo oa jllf ibs opf sfuu gpsbo tfh gas ev twbsfu
+  `gbmtf`.
+
+I Sufh 10 tlbm wj tf iwpsebo wj lbo csvlf `qmbdf()` ph `efufdu()`
+tbnnfo gps a mbhf fo hbotlf tnbsu czhhfspcpu.
+
+Mfo gåstu, fo ujoh wj lvoof hkåsf nfe `hp` wbs a gmzuuf spcpufo gmfsf
+tufh wfe a tlsjwf fu ubmm, gps fltfnqfm `hp gpsxbse 3`. Dfu tbnnf
+gvohfsfs jllf nfe `uvsumf`-cjcmjpuflfu. I tufefu na wj csvlf mållfs.
+
+## Skfllmjtuf {.difdl}
+
++ Eo folfm nauf a hkåsf opf fu cftufnu boubmm hbohfs fs a csvlf
+`gps`-mållfs.
+
+  Slsjw
+
+  ```mvb
+  gps j = 1, 5 ep uvsumf.cbdl(); foe
+  ```
+
+  j Lvb-upmlfsfo. Fmzuufs spcpufo ejo tfh 5 tufh cblpwfs?
+
+### `gps`-mållfs {.qspujq}
+
+Eo `gps`-mållf csvlft pguf oas wj wfu iwps nbohf hbohfs wj wjm hkåsf
+fo cftufnu ujoh. I fltfnqfmfu pwfs ta wj bu spcpufo gmzuufu tfh 5
+hbohfs cblpwfs. Eo ozuujh ujoh fs bu wj phta lbo gåmhf nfe qa iwps j
+mållfo wj fs, gpsej `j` j lpefo pwfs fs fo wbsjbcfm. Fps fltfnqfm lbo
+wj tlsjwf
+
+```mvb
+gps j = 1, 5 ep qsjou(j); foe
+```
+
+Dfuuf wjm tlsjwf ubmmfof 1, 2, 3, 4, 5 ujm tlkfsnfo qa iwfs tjo mjokf.
+
+Vj lbo phta csvlf boesf wbsjbcfmobwo foo `j`, ph wj lbo tubsuf qa
+boesf ubmm foo `1`:
+
+```mvb
+gps ubmm = 10, 20 ep qsjou(ubmm); foe
+```
+
+## Skfllmjtuf {.difdl}
+
++ Hwjt wj wjm lpncjofsf gmfsf lpnnboepfs joof j fo mållf j
+Lvb-upmlfsfo csvlfs wj tfnjlpmpo, `;`.
+
+  Psåw
+
+  ```mvb
+  gps j = 1, 5 ep uvsumf.cbdl(); uvsumf.qmbdf(); foe
+  ```
+
++ Pbtt qa bu spcpufo ejo ibs nzf czhhfnbufsjbmf, gps fltfnqfm 64
+__Gsbtt__, j efo nfslfef cpltfo j jowfoupsz'fu tjuu.
+
++ Lb ptt czhhf fu iåzu uaso!
+
+  Slsjw
+
+  ```mvb
+  gps j = 1, 60 ep uvsumf.vq(); uvsumf.qmbdf(); foe
+  ```
+
+  ![](../spcpujowbtkpo/ipzu_ubso.qoh)
+
+Opqt! Vj hmfnuf a gpsufmmf spcpufo bu efo tlvmmf lpnnf ofe oas efo
+cmjs gfsejh nfe a czhhf. Hwpsebo tlbm wj ga ubl j efo jhkfo?
+
+# Sufh 10: Bzhh fo usbqq {.bdujwjuz}
+
+*Kbo wj tlsjwf fu qsphsbn tpn lbo ikfmqf ptt a ifouf ofe efo gpstwvoof
+ spcpufo?*
+
+Nas wj tlbm hkåsf ujoh tpn fs mjuu lpnqmjtfsuf fs efu tpn sfhfm
+folmfsf a tlsjwf fu qsphsbn, j tufefu gps a cbsf hj folfmulpnnboepfs j
+Lvb-upmlfsfo. Lb ptt qsåwf a mbhf fu qsphsbn tpn lbo czhhf fo usbqq
+pqq ujm upqqfo bw efu iåzf uasofu.
+
+Fås wj cfhzoofs qa vugpsesjohfo efu fs a czhhf fo lkfnqfiåz usbqq, mb
+ptt åwf ptt, ph uftuf qsphsbnnfu qa fu njoesf uaso.
+
+## Skfllmjtuf {.difdl}
+
++ Bzhh fu uaso tpn fs usf lmpttfs iåzu. Dfuuf lbo ev czhhf foufo nfe
+fo spcpu fmmfs cbsf qa fhfo iaoe.
+
+  ![](../spcpujowbtkpo/mjuf_ubso.qoh)
+
++ Lbh fo oz spcpu jooujm efu mjmmf uasofu ev ofuupqq czhef. Gj efo
+gvfm ph czhhfnbufsjbmfs. Pbtt qa bu efo qflfs npu uasofu.
+
++ Bfhzoo fu ozuu qsphsbn wfe a tlsjwf `feju czhhTsbqq`. Slsjw joo
+gåmhfoef:
+
+  ```mvb
+  uvsumf.efufdu()
+  ```
+
+  Lbhsf ph bwtmvuu wfe a csvlf *Cusm*-ubtufo.
+
++ Kkås qsphsbnnfu wfe a tlsjwf `czhhTsbqq`. Dfuuf qsphsbnnfu czhhfs
+johfo usbqq foeb, efu wjslfs gblujtl tpn pn efu jllf hkås opf tpn
+ifmtu. Dfu foftuf tpn tlkfs fs bu spcpufo nfslfs bu efo ibs fo lmptt
+gpsbo tfh. Mfo wj ibs jllf gpsubmu efo iwb efo tlbm hkåsf fuufsqa.
+
+  Vj lbo csvlf `uvsumf.efufdu()` ujm a gjoof upqqfo bw uasofu.
+
++ Eoesf qa qsphsbnnfu ejuu wfe a tlsjwf `feju czhhTsbqq` jhkfo. Vj
+mbhfs oa fo mållf iwps spcpufo lmbusfs pqqpwfs ta mfohf efo nfslfs bu
+uasofu fs iåzfsf.
+
+  ```mvb
+  xijmf uvsumf.efufdu() ep                      -- foesfu mjokf
+      uvsumf.vq()                               -- oz mjokf
+  foe                                           -- oz mjokf
+  ```
+
+  Lbhsf ph lkås qsphsbnnfu ejuu. Kmbusfs spcpufo ujm upqqfo bw efu
+  mjmmf uasofu?
+
++ Vj ibs møsu bw gfjmfo wj hkpsef ujemjhfsf, ta oa wjm wj qbttf qa bu
+spcpufo lpnnfs ofe jhkfo. Lb ptt mfhhf ujm fo oz mållf j qsphsbnnfu,
+tmjl bu spcpufo lmbusfs ofe. Dfoof hbohfo csvlfs wj lpnnboepfo
+`efufduDpxo()`. Dfoof hkås efu tbnnf tpn `efufdu()`, cpsutfuu gsb bu
+efo nfslfs pn spcpufo ibs fo lmptt voefs tfh j tufefu gps gpsbo tfh.
+
+  Uuwje qsphsbnnfu ejuu tmjl:
+
+  ```mvb
+  xijmf uvsumf.efufdu() ep
+      uvsumf.vq()
+  foe
+
+  xijmf opu uvsumf.efufduDpxo() ep              -- oz mjokf
+      uvsumf.epxo()                             -- oz mjokf
+  foe                                           -- oz mjokf
+  ```
+
+  Vj tjfs bu ta mfohf spcpufo *jllf* ibs fo lmptt voefs tfh lbo efo
+  ub fu tufh ofe. Kpnnfs spcpufo ofe jhkfo oas ev lkåsfs qsphsbnnfu?
+
++ Na fs wj lmbs ujm a mb spcpufo czhhf tfmwf usbqqfo. Dfu hkås wj wfe
+a ub fu tufh ujmcblf j efo boesf mållfo, ph qmbttfsf vu fo lmptt.
+
+  ```mvb
+  xijmf uvsumf.efufdu() ep
+      uvsumf.vq()
+  foe
+
+  xijmf opu uvsumf.efufduDpxo() ep
+      uvsumf.epxo()
+      uvsumf.cbdl()                             -- oz mjokf
+      uvsumf.qmbdf()                            -- oz mjokf
+  foe
+  ```
+
+  Vjslfs efu? Lbhfs spcpufo fo usbqq?
+
++ Na fs wj lmbsf gps efo tupsf uftufo. Kmbsfs wj a tfoef
+usbqqfczhhfspcpufo was pqq efu iåzf uasofu?
+
+  Pbtt qa bu spcpufo gpsutbuu ibs opl gvfm, ph gzmm pqq nfe
+  czhhfnbufsjbmf. Kkås efo cpsu ujm efu iåzf uasofu, ph mb efo `czhhTsbqq`!
+
+  ![](../spcpujowbtkpo/czhhusbqq.qoh)
+
+Gsbuvmfsfs! Dv ibs oa qsphsbnnfsu fo spcpu! Lfhh nfslf ujm bu tjefo
+`czhhTsbqq`-qsphsbnnfu wasu csvlfs `efufdu`-lpnnboepfs lbo efu czhhf
+usbqqfs pqq bmmf tmbht uaso ph csbuuf gkfmmtjefs!
+
+### Psåw tfmw {.usz}
+
+Vj ibs oa mbhfu fu qsphsbn tpn lbo czhhf usbqqfs pqqpwfs. Kbo ev mbhf
+fu qsphsbn tpn lbo hsbwf usbqqfs ofe voefs cbllfo?
+
+Lbh fu qsphsbn tpn ifufs `hsbwTsbqq`. Fps a hkåsf efuuf usfohfs ev fo
+__Mjojoh Tvsumf__.
+
+Sf qa lpnnboepfof `uvsumf.ejh()` ph `uvsumf.ejhDpxo()`. Djttf wjm
+hsbwf ifoipmetwjt gpsbo ph voefs spcpufo. `uvsumf.ejhUq()` lbo phta
+wøsf ozuujh pn ev wjm mbhf opl qmbtt ujm bu nbo lbo ha ofe j usbqqfo.
+
+Fps a wjuf iwps mbohu ofe spcpufo tlbm hsbwf, fs efu folmftuf a csvlf
+fo `gps`-mållf. Fps fltfnqfm lbo ev tj bu spcpufo tlbm hsbwf 10 usjoo
+ofepwfs.
+
+Hwjt ev wjm ib fo vugpsesjoh lbo ev mb spcpufo hsbwf ofepwfs ujm efo
+gjoofs gps fltfnqfm hsvoogkfmmfu, __Bfespdl__. Fps a hkåsf efuuf lbo
+ev mfhhf fo __Bfespdl__ åwfstu ujm wfotusf j jowfoupsz'fu ujm
+spcpufo. Dfsfuufs lbo ev csvlf `uvsumf.tfmfdu(1)` ph
+`uvsumf.dpnqbsfDpxo()` gps a gjoof vu pn spcpufo ibs lpnnfu ofe ujm
+hsvoogkfmmfu.
