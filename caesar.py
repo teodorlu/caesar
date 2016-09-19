@@ -1,5 +1,8 @@
+#! /usr/bin/env python3
+
 import sys
 import fileinput
+import textwrap
 
 alphabet = "abcdefghijklmnopqrstuvwxyzæøå"
 
@@ -41,6 +44,15 @@ def demo():
     print("".join(encrypt('z', 'pizza')))
     print("".join(encrypt('z', 'Dette er _test!!')))
 
+def trimhelp(s):
+    return textwrap.dedent(s) \
+            .rstrip("\n") \
+            .lstrip("\n")
+    """
+    1. Remove common indention
+    2. Remove first and last newline
+    """
+
 def printhelp():
     helptext = """
     Usage examples:
@@ -51,7 +63,7 @@ def printhelp():
      - Decrypt using 'l':
          python3 caesar.py decrypt l source.txt
     """
-    print(helptext)
+    print(trimhelp(helptext))
 
 def mkencryptfun():
     if len(sys.argv) < 3:
