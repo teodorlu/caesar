@@ -11,13 +11,13 @@ def addcounter(charusage, letter):
 def printusage(usagetups, fractions):
     usagetups.sort(key=lambda tup: tup[1], reverse=True)
     for k, v in usagetups:
-        print("{0:5d} ({1:.5f}): {2}".format(v, fractions[k], k))
+        print("{0:5d} ({1:.2f} %): {2}".format(v, fractions[k], k))
 
-def mkfractions(charusage):
+def mkpercents(charusage):
     total = sum(charusage.values())
     percents = {}
     for letter, count in charusage.items():
-        fraction = count / total
+        fraction = count / total * 100.0
         percents[letter] = fraction
     return percents
 
@@ -28,7 +28,7 @@ def main():
             if letter is not "\n":
                 addcounter(charusage, letter)
 
-    fractions = mkfractions(charusage)
+    fractions = mkpercents(charusage)
     printusage(list(charusage.items()), fractions)
 
 if __name__ == '__main__':
